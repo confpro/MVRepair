@@ -8,3 +8,20 @@ Model training step. In this step, MVRepair uses the multi-head attention mechan
 
 Vulnerability repair step. Through interprocedural analysis, the AST of the target program is first constructed so that the code SST extraction can be carried out to capture the precise program semantics related to memory usage. Then, the code is segmented according to the key nodes to ensure that the model learns the complete code semantics. Then, the key code information and code segments were fed into the well-trained model.
 
+
+RQ1: Effectiveness of MVRepair
+
+![image](https://github.com/user-attachments/assets/a215f8eb-51da-4c6b-a2ee-c39ba9fab83a)
+
+
+RQ2: Effectiveness of SST-Segmentation on Other ℓLM Models
+
+![image](https://github.com/user-attachments/assets/8133625f-055e-41bc-8593-55b3bb47c4d2)
+
+RQ3: Influences of Design Choices
+
+![image](https://github.com/user-attachments/assets/0d42149c-10f2-4c75-8015-1d1475e28c1c)
+
+RQ4: Influences of Hyper-paramaters
+
+![Uploading image.png…]()
