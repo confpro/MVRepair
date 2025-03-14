@@ -24,4 +24,13 @@ RQ3: Influences of Design Choices
 
 RQ4: Influences of Hyper-paramaters
 
+![image](https://github.com/user-attachments/assets/828da8ab-3174-4fd5-94ad-29799e5ca088)
+
+Dis:
+
+Applicability of MVRepair
+![image](https://github.com/user-attachments/assets/70575a25-9e9b-444a-a777-d5b481db31c8)
+
+The impact of different prompts
+
 ![Uploading image.png…]()
